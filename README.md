@@ -6,7 +6,7 @@ accessible, and beautiful web experiences.
 🌍 From Nigeria, building software that solves real-world problems
 🧠 Always learning new tech and improving existing skills
 📚 Diploma in Software Engineering (Frontend) — AltSchool Africa ✅
-🌐 Open to remote internships · Frontend roles · Collaborations
+🌐 Open to remote opportunities · Frontend roles · Collaborations
 
 ---
 
