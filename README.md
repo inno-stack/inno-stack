@@ -65,17 +65,11 @@ accessible, and beautiful web experiences.
 - 🛍️ **Sneakers E-commerce Website** – Responsive storefront with interactive image gallery and dynamic cart, built with React, TypeScript & Tailwind CSS
 - 💳 **Payment Card App** – Real-time interactive card UI with live input synchronization, built with React.js & TypeScript
 - 🧾 **Result Management System** – Web app to automate secondary school results with scratch card login
-- 🌐 **Personal Portfolio** – Performance-optimized portfolio with accessibility best practices
+- 🌐 **Personal Portfolio** – Performance-optimized portfolio with accessibility 
 
 ---
 
-## 📈 GitHub Stats
-
-
-
-![Innocent's GitHub stats](https://github-readme-stats.vercel.app/api?username=inno-stack&show_icons=true&theme=radical)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inno-stack&layout=compact&theme=radical)
 
 ---
 
