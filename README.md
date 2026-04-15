@@ -65,7 +65,6 @@ accessible, and beautiful web experiences.
 - 🛍️ **Sneakers E-commerce Website** – Responsive storefront with interactive image gallery and dynamic cart, built with React, TypeScript & Tailwind CSS
 - 💳 **Payment Card App** – Real-time interactive card UI with live input synchronization, built with React.js & TypeScript
 - 🧾 **Result Management System** – Web app to automate secondary school results with scratch card login
-- 📚 **KDP Book Automation** – Amazon KDP tools to manage, preview, and publish ebooks
 - 🌐 **Personal Portfolio** – Performance-optimized portfolio with accessibility best practices
 
 ---
@@ -74,7 +73,7 @@ accessible, and beautiful web experiences.
 
 
 
-![Innocent's GitHub stats](https://github-readme-stats.vercel.app/api?username=innostack&show_icons=true&theme=radical)
+![Innocent's GitHub stats](https://github-readme-stats.vercel.app/api?username=inno-stack&show_icons=true&theme=radical)
 
 
 
